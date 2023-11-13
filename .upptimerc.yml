@@ -11,6 +11,24 @@ sites:
     url: https://osteriamoderna.no
   - name: frostabrygge.no
     url: https://frostabrygge.no
+  - name: yggdrasilmiljo.no
+    url: https://yggdrasilmiljo.no
+  - name: simonsinterior.no
+    url: https://simonsinterior.no
+  - name: leospizza.no
+    url: https://leospizza.no
+  - name: xstadion.no
+    url: https://xstadion.no
+  - name: dininfoskjerm.no
+    url: https://dininfoskjerm.no
+  - name: alpha-as.no
+    url: https://alpha-as.no
+  - name: biztek.no
+    url: https://biztek.no
+  - name: lakksalg.no
+    url: https://lakksalg.no
+  - name: ilfornaio.no
+    url: https://ilfornaio.no
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
