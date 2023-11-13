@@ -401,18 +401,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bonderuta.no.ico",
     "slug": "bonderuta-no",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-13": 27
+      "2023-11-13": 28
     }
   },
   {
@@ -907,18 +907,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maskinutleie.as.ico",
     "slug": "maskinutleie-as",
     "status": "down",
-    "uptime": "1.98%",
-    "uptimeDay": "1.98%",
-    "uptimeWeek": "1.98%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "1.98%",
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
     "time": 1450,
     "timeDay": 1450,
     "timeWeek": 1450,
     "timeMonth": 1450,
     "timeYear": 1450,
     "dailyMinutesDown": {
-      "2023-11-13": 1
+      "2023-11-13": 2
     }
   },
   {
@@ -1017,11 +1017,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/simcon.no.ico",
     "slug": "simcon-no",
     "status": "down",
-    "uptime": "4.40%",
-    "uptimeDay": "4.40%",
-    "uptimeWeek": "4.40%",
-    "uptimeMonth": "4.40%",
-    "uptimeYear": "4.40%",
+    "uptime": "2.50%",
+    "uptimeDay": "2.50%",
+    "uptimeWeek": "2.50%",
+    "uptimeMonth": "2.50%",
+    "uptimeYear": "2.50%",
     "time": 1337,
     "timeDay": 1337,
     "timeWeek": 1337,
