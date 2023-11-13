@@ -5,6 +5,10 @@ repo: Types-status # The name of this repository
 sites:
   - name: mardahl.no
     url: https://mardahl.no
+  - name: verksted.mardahl.no
+    url: https://verksted.mardahl.no
+  - name: industri.mardahl.no
+    url: https://industri.mardahl.no
   - name: frumento.no
     url: https://frumento.no
   - name: osteriamoderna.no
@@ -53,6 +57,8 @@ sites:
     url: https://vikenmidtre.no
   - name: ck.no
     url: https://ck.no
+  - name: trv-gruppen.ck.no
+    url: https://trv-gruppen.ck.no
   - name: mederi.no
     url: https://mederi.no
   - name: loginfinans.no
@@ -63,8 +69,6 @@ sites:
     url: https://frent.no
   - name: tilveksten.no
     url: https://tilveksten.no
-  - name: vennatroe.no
-    url: https://vennatroe.no
   - name: stem.hegrasparebank.no
     url: https://stem.hegrasparebank.no
   - name: all-rf.no
@@ -133,6 +137,10 @@ sites:
     url: https://vingemaskin.no
   - name: publy.no
     url: https://publy.no
+  - name: app.publy.no
+    url: https://app.publy.no
+  - name: partner.publy.no
+    url: https://partner.publy.no
   - name: hammerplanteskole.no
     url: https://hammerplanteskole.no
   - name: hospitalet.no
@@ -142,17 +150,7 @@ sites:
   - name: orsand.no
     url: https://orsand.no
   - name: minilagertrondheim.no
-    url: https://minilagertrondheim.no
-  - name: stebo.no
-    url: https://stebo.no
-  - name: pks-as.no
-    url: https://pks-as.no
-  - name: kranogutstyrskontroll.no
-    url: https://kranogutstyrskontroll.no
-  - name: vectum.no
-    url: https://vectum.no
-  - name: ytreviken.no
-    url: https://ytreviken.no
+    url: https://min
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
