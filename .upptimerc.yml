@@ -133,6 +133,24 @@ sites:
     url: https://grano.no
   - name: fallskjerm.no
     url: https://fallskjerm.no
+  - name: vingemaskin.no
+    url: https://vingemaskin.no
+  - name: publy.no
+    url: https://publy.no
+  - name: hammerplanteskole.no
+    url: https://hammerplanteskole.no
+  - name: hospitalet.no
+    url: https://hospitalet.no
+  - name: stenets.no
+    url: https://stenets.no
+  - name: orsand.no
+    url: https://orsand.no
+  - name: nyttnettsted.com
+    url: nyttnettsted.com
+  - name: minilagertrondheim.no
+    url: https://minilagertrondheim.no
+  - name: stebo.no
+    url: https://stebo.no
 
 
 status-website:
