@@ -53,6 +53,56 @@ sites:
     url: https://vikenmidtre.no
   - name: ck.no
     url: https://ck.no
+  - name: mederi.no
+    url: https://mederi.no
+  - name: loginfinans.no
+    url: https://loginfinans.no
+  - name: smålandbåtforening.no
+    url: https://smålandbåtforening.no
+  - name: frent.no
+    url: https://frent.no
+  - name: tilveksten.no
+    url: https://tilveksten.no
+  - name: vennatroe.no
+    url: https://vennatroe.no
+  - name: stem.hegrasparebank.no
+    url: https://stem.hegrasparebank.no
+  - name: all-rf.no
+    url: https://all-rf.no
+  - name: ta-lappen.com
+    url: https://ta-lappen.com
+  - name: mus.as
+    url: https://mus.as
+  - name: all-ror.no
+    url: https://all-ror.no
+  - name: hojemgard.no
+    url: https://hojemgard.no
+  - name: mariaskjokken.no
+    url: https://mariaskjokken.no
+  - name: intus.no
+    url: https://intus.no
+  - name: roskaft.no
+    url: https://roskaft.no
+  - name: operadisetra.no
+    url: https://operadisetra.no
+  - name: ppmprosjekt.no
+    url: https://ppmprosjekt.no
+  - name: fossli.no
+    url: https://fossli.no
+  - name: helgeposen.no
+    url: https://helgeposen.no
+  - name: djupvika.no
+    url: https://djupvika.no
+  - name: smakenavspania.no
+    url: https://smakenavspania.no
+  - name: krradgivning.no
+    url: https://krradgivning.no
+  - name: turbuss1.no
+    url: https://turbuss1.no
+  - name: utpaasjoen.no
+    url: https://utpaasjoen.no
+  - name: frostafrisor.no
+    url: https://frostafrisor.no
 
 
 status-website:
