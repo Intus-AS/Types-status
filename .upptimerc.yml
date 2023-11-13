@@ -29,6 +29,31 @@ sites:
     url: https://lakksalg.no
   - name: ilfornaio.no
     url: https://ilfornaio.no
+  - name: crispyfriedchicken.no
+    url: https://crispyfriedchicken.no
+  - name: cfcdrive.no
+    url: https://cfcdrive.no
+  - name: nordingpartners.no
+    url: https://nordingpartners.no
+  - name: lokalskjermen.no
+    url: https://lokalskjermen.no
+  - name: voldautospa.no
+    url: https://voldautospa.no
+  - name: types.no
+    url: https://types.no
+  - name: uniloq.io
+    url: https://uniloq.io
+  - name: hotell-skolestua.no
+    url: https://hotell-skolestua.no
+  - name: meetly.no
+    url: https://meetly.no
+  - name: bonderuta.no
+    url: https://bonderuta.no
+  - name: vikenmidtre.no
+    url: https://vikenmidtre.no
+  - name: ck.no
+    url: https://ck.no
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
