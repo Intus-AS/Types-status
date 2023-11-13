@@ -103,8 +103,6 @@ sites:
     url: https://utpaasjoen.no
   - name: frostafrisor.no
     url: https://frostafrisor.no
-  - name: maskinutleie.as
-    url: https://maskinutleie.as
   - name: hell-catering.no
     url: https://hell-catering.no
   - name: tobbdrift.no
@@ -115,8 +113,6 @@ sites:
     url: https://venklinikken.no
   - name: frisk-salat.no
     url: https://frisk-salat.no
-  - name: simcon.no
-    url: https://simcon.no
   - name: portalenagdenes.no
     url: https://portalenagdenes.no
   - name: xfitness.no
