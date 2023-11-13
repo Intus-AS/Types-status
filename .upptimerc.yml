@@ -145,7 +145,14 @@ sites:
     url: https://minilagertrondheim.no
   - name: stebo.no
     url: https://stebo.no
-
+  - name: pks-as.no
+    url: https://pks-as.no
+  - name: kranogutstyrskontroll.no
+    url: https://kranogutstyrskontroll.no
+  - name: vectum.no
+    url: https://vectum.no
+  - name: ytreviken.no
+    url: https://ytreviken.no
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
