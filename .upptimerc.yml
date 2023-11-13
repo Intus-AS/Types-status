@@ -51,8 +51,6 @@ sites:
     url: https://hotell-skolestua.no
   - name: meetly.no
     url: https://meetly.no
-  - name: bonderuta.no
-    url: https://bonderuta.no
   - name: vikenmidtre.no
     url: https://vikenmidtre.no
   - name: ck.no
