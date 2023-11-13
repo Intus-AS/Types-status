@@ -141,8 +141,6 @@ sites:
     url: https://stenets.no
   - name: orsand.no
     url: https://orsand.no
-  - name: nyttnettsted.com
-    url: nyttnettsted.com
   - name: minilagertrondheim.no
     url: https://minilagertrondheim.no
   - name: stebo.no
