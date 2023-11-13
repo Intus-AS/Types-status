@@ -103,6 +103,36 @@ sites:
     url: https://utpaasjoen.no
   - name: frostafrisor.no
     url: https://frostafrisor.no
+  - name: maskinutleie.as
+    url: https://maskinutleie.as
+  - name: hell-catering.no
+    url: https://hell-catering.no
+  - name: tobbdrift.no
+    url: https://tobbdrift.no
+  - name: klostergardentautra.no
+    url: https://klostergardentautra.no
+  - name: venklinikken.no
+    url: https://venklinikken.no
+  - name: frisk-salat.no
+    url: https://frisk-salat.no
+  - name: simcon.no
+    url: https://simcon.no
+  - name: portalenagdenes.no
+    url: https://portalenagdenes.no
+  - name: xfitness.no
+    url: https://xfitness.no
+  - name: eidum.no
+    url: https://eidum.no
+  - name: frostabua.no
+    url: https://frostabua.no
+  - name: easyfit.no
+    url: https://easyfit.no
+  - name: frostavvs.no
+    url: https://frostavvs.no
+  - name: grano.no
+    url: https://grano.no
+  - name: fallskjerm.no
+    url: https://fallskjerm.no
 
 
 status-website:
