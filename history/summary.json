@@ -634,19 +634,19 @@
     "url": "https://mus.as",
     "icon": "https://icons.duckduckgo.com/ip3/mus.as.ico",
     "slug": "mus-as",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3979,
-    "timeDay": 3380,
-    "timeWeek": 3979,
-    "timeMonth": 3979,
-    "timeYear": 3979,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 3945,
+    "timeDay": 3441,
+    "timeWeek": 3945,
+    "timeMonth": 3945,
+    "timeYear": 3945,
     "dailyMinutesDown": {
-      "2023-11-17": 1
+      "2023-11-17": 6
     }
   },
   {
