@@ -581,18 +581,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stem.hegrasparebank.no.ico",
     "slug": "stem-hegrasparebank-no",
     "status": "up",
-    "uptime": "55.21%",
+    "uptime": "54.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.68%",
-    "uptimeYear": "55.21%",
+    "uptimeMonth": "49.21%",
+    "uptimeYear": "54.49%",
     "time": 932,
     "timeDay": 830,
     "timeWeek": 932,
     "timeMonth": 929,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2023-12-17": 34,
+      "2023-12-17": 678,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -1320,9 +1320,9 @@
     "url": "https://minilagertrondheim.no",
     "icon": "https://icons.duckduckgo.com/ip3/minilagertrondheim.no.ico",
     "slug": "minilagertrondheim-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1331,6 +1331,8 @@
     "timeWeek": 2216,
     "timeMonth": 2217,
     "timeYear": 2255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-17": 0
+    }
   }
 ]
