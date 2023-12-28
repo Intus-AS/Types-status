@@ -436,10 +436,10 @@
     "url": "https://vikenmidtre.no",
     "icon": "https://icons.duckduckgo.com/ip3/vikenmidtre.no.ico",
     "slug": "vikenmidtre-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1800,
@@ -447,7 +447,9 @@
     "timeWeek": 2299,
     "timeMonth": 2040,
     "timeYear": 1800,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-28": 1
+    }
   },
   {
     "name": "ck.no",
@@ -581,18 +583,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stem.hegrasparebank.no.ico",
     "slug": "stem-hegrasparebank-no",
     "status": "up",
-    "uptime": "41.57%",
+    "uptime": "41.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.53%",
-    "uptimeYear": "41.57%",
+    "uptimeMonth": "13.01%",
+    "uptimeYear": "41.14%",
     "time": 921,
     "timeDay": 822,
     "timeWeek": 860,
     "timeMonth": 917,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2023-12-28": 30,
+      "2023-12-28": 698,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
