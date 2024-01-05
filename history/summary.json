@@ -294,19 +294,19 @@
     "url": "https://cfcdrive.no",
     "icon": "https://icons.duckduckgo.com/ip3/cfcdrive.no.ico",
     "slug": "cfcdrive-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "88.51%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.78%",
-    "time": 5832,
-    "timeDay": 18224,
-    "timeWeek": 13312,
-    "timeMonth": 7685,
-    "timeYear": 5832,
+    "time": 5794,
+    "timeDay": 17051,
+    "timeWeek": 12768,
+    "timeMonth": 7575,
+    "timeYear": 5794,
     "dailyMinutesDown": {
-      "2024-01-05": 165
+      "2024-01-05": 169
     }
   },
   {
@@ -596,7 +596,7 @@
     "timeMonth": 872,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-01-05": 633,
+      "2024-01-05": 639,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
