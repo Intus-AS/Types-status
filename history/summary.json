@@ -274,11 +274,11 @@
     "url": "https://crispyfriedchicken.no",
     "icon": "https://icons.duckduckgo.com/ip3/crispyfriedchicken.no.ico",
     "slug": "crispyfriedchicken-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "92.66%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.86%",
     "time": 6678,
     "timeDay": 19680,
@@ -286,7 +286,7 @@
     "timeMonth": 8189,
     "timeYear": 6678,
     "dailyMinutesDown": {
-      "2024-01-05": 106
+      "2024-01-05": 110
     }
   },
   {
@@ -295,18 +295,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfcdrive.no.ico",
     "slug": "cfcdrive-no",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.82%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.82%",
     "time": 5344,
     "timeDay": 20148,
     "timeWeek": 13008,
     "timeMonth": 6981,
     "timeYear": 5344,
     "dailyMinutesDown": {
-      "2024-01-05": 128
+      "2024-01-05": 137
     }
   },
   {
@@ -596,7 +596,7 @@
     "timeMonth": 872,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-01-05": 439,
+      "2024-01-05": 448,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
