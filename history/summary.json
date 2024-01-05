@@ -274,11 +274,11 @@
     "url": "https://crispyfriedchicken.no",
     "icon": "https://icons.duckduckgo.com/ip3/crispyfriedchicken.no.ico",
     "slug": "crispyfriedchicken-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 5478,
     "timeDay": 16140,
@@ -286,7 +286,7 @@
     "timeMonth": 6082,
     "timeYear": 5478,
     "dailyMinutesDown": {
-      "2024-01-05": 36
+      "2024-01-05": 39
     }
   },
   {
@@ -585,18 +585,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stem.hegrasparebank.no.ico",
     "slug": "stem-hegrasparebank-no",
     "status": "up",
-    "uptime": "35.13%",
+    "uptime": "35.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.13%",
+    "uptimeYear": "35.12%",
     "time": 899,
     "timeDay": 1142,
     "timeWeek": 794,
     "timeMonth": 872,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-01-05": 242,
+      "2024-01-05": 259,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
