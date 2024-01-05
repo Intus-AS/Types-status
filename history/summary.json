@@ -274,19 +274,19 @@
     "url": "https://crispyfriedchicken.no",
     "icon": "https://icons.duckduckgo.com/ip3/crispyfriedchicken.no.ico",
     "slug": "crispyfriedchicken-no",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "91.09%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.83%",
     "time": 6969,
     "timeDay": 18224,
     "timeWeek": 13623,
     "timeMonth": 8593,
     "timeYear": 6969,
     "dailyMinutesDown": {
-      "2024-01-05": 138
+      "2024-01-05": 128
     }
   },
   {
@@ -295,18 +295,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfcdrive.no.ico",
     "slug": "cfcdrive-no",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "87.88%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.78%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.78%",
     "time": 5864,
     "timeDay": 19564,
     "timeWeek": 13890,
     "timeMonth": 7788,
     "timeYear": 5864,
     "dailyMinutesDown": {
-      "2024-01-05": 174
+      "2024-01-05": 163
     }
   },
   {
@@ -585,18 +585,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stem.hegrasparebank.no.ico",
     "slug": "stem-hegrasparebank-no",
     "status": "up",
-    "uptime": "35.00%",
+    "uptime": "34.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.00%",
+    "uptimeYear": "34.98%",
     "time": 899,
     "timeDay": 1142,
     "timeWeek": 794,
     "timeMonth": 872,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-01-05": 525,
+      "2024-01-05": 580,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
