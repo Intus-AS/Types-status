@@ -350,19 +350,19 @@
     "url": "https://voldautospa.no",
     "icon": "https://icons.duckduckgo.com/ip3/voldautospa.no.ico",
     "slug": "voldautospa-no",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1570,
-    "timeDay": 1305,
-    "timeWeek": 1390,
-    "timeMonth": 1521,
-    "timeYear": 1570,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1564,
+    "timeDay": 1231,
+    "timeWeek": 1360,
+    "timeMonth": 1510,
+    "timeYear": 1564,
     "dailyMinutesDown": {
-      "2024-01-06": 2
+      "2024-01-06": 6
     }
   },
   {
@@ -598,7 +598,7 @@
     "timeMonth": 879,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2024-01-06": 1056,
+      "2024-01-06": 1062,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
