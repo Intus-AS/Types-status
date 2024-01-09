@@ -596,7 +596,7 @@
     "timeMonth": 911,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2024-01-09": 1185,
+      "2024-01-09": 1190,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -825,19 +825,19 @@
     "url": "https://fossli.no",
     "icon": "https://icons.duckduckgo.com/ip3/fossli.no.ico",
     "slug": "fossli-no",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 1288,
-    "timeWeek": 1023,
-    "timeMonth": 920,
-    "timeYear": 961,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 957,
+    "timeDay": 999,
+    "timeWeek": 984,
+    "timeMonth": 914,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2024-01-09": 1
+      "2024-01-09": 6
     }
   },
   {
