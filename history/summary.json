@@ -596,7 +596,7 @@
     "timeMonth": 900,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2024-01-11": 702,
+      "2024-01-11": 707,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
@@ -791,19 +791,19 @@
     "url": "https://operadisetra.no",
     "icon": "https://icons.duckduckgo.com/ip3/operadisetra.no.ico",
     "slug": "operadisetra-no",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 1061,
-    "timeWeek": 1250,
-    "timeMonth": 1029,
-    "timeYear": 1075,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1073,
+    "timeDay": 1014,
+    "timeWeek": 1214,
+    "timeMonth": 1027,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2024-01-11": 2
+      "2024-01-11": 6
     }
   },
   {
