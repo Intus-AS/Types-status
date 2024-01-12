@@ -596,7 +596,7 @@
     "timeMonth": 895,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2024-01-12": 1065,
+      "2024-01-12": 1071,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1100,19 +1100,19 @@
     "url": "https://eidum.no",
     "icon": "https://icons.duckduckgo.com/ip3/eidum.no.ico",
     "slug": "eidum-no",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 1045,
-    "timeWeek": 1256,
-    "timeMonth": 1099,
-    "timeYear": 1178,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1185,
+    "timeDay": 1360,
+    "timeWeek": 1309,
+    "timeMonth": 1117,
+    "timeYear": 1185,
     "dailyMinutesDown": {
-      "2024-01-12": 1
+      "2024-01-12": 6
     }
   },
   {
