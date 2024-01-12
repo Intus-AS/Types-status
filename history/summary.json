@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/frumento.no.ico",
     "slug": "frumento-no",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1684,
     "timeDay": 2827,
     "timeWeek": 2522,
     "timeMonth": 2316,
     "timeYear": 1684,
-    "dailyMinutesDown": {
-      "2024-01-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "osteriamoderna.no",
@@ -587,18 +585,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stem.hegrasparebank.no.ico",
     "slug": "stem-hegrasparebank-no",
     "status": "up",
-    "uptime": "30.84%",
+    "uptime": "30.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.84%",
+    "uptimeYear": "30.71%",
     "time": 912,
     "timeDay": 687,
     "timeWeek": 1024,
     "timeMonth": 895,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2024-01-12": 705,
+      "2024-01-12": 1065,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -723,19 +721,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hojemgard.no.ico",
     "slug": "hojemgard-no",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2171,
     "timeDay": 2160,
     "timeWeek": 2232,
     "timeMonth": 2031,
     "timeYear": 2171,
-    "dailyMinutesDown": {
-      "2024-01-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mariaskjokken.no",
@@ -803,7 +799,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1071,
-    "timeDay": 934,
+    "timeDay": 901,
     "timeWeek": 1167,
     "timeMonth": 1032,
     "timeYear": 1071,
@@ -1104,10 +1100,10 @@
     "url": "https://eidum.no",
     "icon": "https://icons.duckduckgo.com/ip3/eidum.no.ico",
     "slug": "eidum-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1178,
@@ -1115,7 +1111,9 @@
     "timeWeek": 1256,
     "timeMonth": 1099,
     "timeYear": 1178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 1
+    }
   },
   {
     "name": "frostabua.no",
