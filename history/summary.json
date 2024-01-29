@@ -598,7 +598,7 @@
     "timeMonth": 923,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2024-01-29": 712,
+      "2024-01-29": 716,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -664,19 +664,19 @@
     "url": "https://all-rf.no",
     "icon": "https://icons.duckduckgo.com/ip3/all-rf.no.ico",
     "slug": "all-rf-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 703,
-    "timeWeek": 858,
-    "timeMonth": 949,
-    "timeYear": 971,
+    "time": 967,
+    "timeDay": 674,
+    "timeWeek": 832,
+    "timeMonth": 940,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2024-01-29": 1
+      "2024-01-29": 5
     }
   },
   {
