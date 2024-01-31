@@ -1,7 +1,7 @@
 url: https://hammerplanteskole.no
-status: up
-code: 200
-responseTime: 2718
-lastUpdated: 2024-01-30T23:10:42.215Z
+status: down
+code: 500
+responseTime: 10365
+lastUpdated: 2024-01-31T15:36:38.426Z
 startTime: 2023-11-13T12:56:43.771Z
 generator: Upptime <https://github.com/upptime/upptime>
