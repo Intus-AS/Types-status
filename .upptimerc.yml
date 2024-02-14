@@ -71,8 +71,6 @@ sites:
     url: https://stem.hegrasparebank.no
   - name: all-rf.no
     url: https://all-rf.no
-  - name: ta-lappen.com
-    url: https://ta-lappen.com
   - name: mus.as
     url: https://mus.as
   - name: all-ror.no
