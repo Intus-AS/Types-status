@@ -38,11 +38,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/verksted.mardahl.no.ico",
     "slug": "verksted-mardahl-no",
     "status": "up",
-    "uptime": "88.39%",
+    "uptime": "88.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "61.67%",
-    "uptimeYear": "88.39%",
+    "uptimeYear": "88.40%",
     "time": 1837,
     "timeDay": 1320,
     "timeWeek": 1019,
@@ -692,7 +692,7 @@
     "timeMonth": 910,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2024-02-22": 30,
+      "2024-02-22": 63,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -1276,18 +1276,20 @@
     "url": "https://easyfit.no",
     "icon": "https://icons.duckduckgo.com/ip3/easyfit.no.ico",
     "slug": "easyfit-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2205,
     "timeDay": 2178,
     "timeWeek": 2268,
     "timeMonth": 2084,
     "timeYear": 2205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 3
+    }
   },
   {
     "name": "frostavvs.no",
@@ -1295,18 +1297,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/frostavvs.no.ico",
     "slug": "frostavvs-no",
     "status": "up",
-    "uptime": "90.33%",
+    "uptime": "90.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.07%",
-    "uptimeYear": "90.33%",
+    "uptimeMonth": "67.99%",
+    "uptimeYear": "90.31%",
     "time": 1736,
     "timeDay": 1183,
     "timeWeek": 907,
     "timeMonth": 1994,
     "timeYear": 1736,
     "dailyMinutesDown": {
-      "2024-02-22": 30,
+      "2024-02-22": 63,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -1342,18 +1344,20 @@
     "url": "https://fallskjerm.no",
     "icon": "https://icons.duckduckgo.com/ip3/fallskjerm.no.ico",
     "slug": "fallskjerm-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2509,
     "timeDay": 3090,
     "timeWeek": 2412,
     "timeMonth": 2418,
     "timeYear": 2509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 3
+    }
   },
   {
     "name": "vingemaskin.no",
@@ -1380,18 +1384,20 @@
     "url": "https://publy.no",
     "icon": "https://icons.duckduckgo.com/ip3/publy.no.ico",
     "slug": "publy-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 1508,
-    "timeWeek": 1277,
-    "timeMonth": 1198,
-    "timeYear": 1213,
-    "dailyMinutesDown": {}
+    "time": 1203,
+    "timeDay": 827,
+    "timeWeek": 1136,
+    "timeMonth": 1166,
+    "timeYear": 1203,
+    "dailyMinutesDown": {
+      "2024-02-22": 3
+    }
   },
   {
     "name": "app.publy.no",
@@ -1454,28 +1460,30 @@
     "url": "https://hospitalet.no",
     "icon": "https://icons.duckduckgo.com/ip3/hospitalet.no.ico",
     "slug": "hospitalet-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 994,
     "timeDay": 1182,
     "timeWeek": 1010,
     "timeMonth": 945,
     "timeYear": 994,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 2
+    }
   },
   {
     "name": "stenets.no",
     "url": "https://stenets.no",
     "icon": "https://icons.duckduckgo.com/ip3/stenets.no.ico",
     "slug": "stenets-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2034,
@@ -1483,7 +1491,9 @@
     "timeWeek": 1971,
     "timeMonth": 1909,
     "timeYear": 2034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 2
+    }
   },
   {
     "name": "orsand.no",
