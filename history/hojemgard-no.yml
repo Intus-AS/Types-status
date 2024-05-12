@@ -1,7 +1,7 @@
 url: https://hojemgard.no
-status: up
-code: 200
-responseTime: 1611
-lastUpdated: 2024-05-11T23:10:03.166Z
+status: down
+code: 503
+responseTime: 616
+lastUpdated: 2024-05-12T23:08:55.013Z
 startTime: 2023-11-13T12:40:21.471Z
 generator: Upptime <https://github.com/upptime/upptime>
