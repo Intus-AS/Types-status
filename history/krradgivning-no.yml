@@ -1,7 +1,7 @@
 url: https://krradgivning.no
-status: up
-code: 200
-responseTime: 715
-lastUpdated: 2024-05-16T23:10:28.266Z
+status: down
+code: 503
+responseTime: 634
+lastUpdated: 2024-05-16T23:36:52.824Z
 startTime: 2023-11-13T12:40:45.508Z
 generator: Upptime <https://github.com/upptime/upptime>
