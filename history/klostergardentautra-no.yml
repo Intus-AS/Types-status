@@ -1,7 +1,7 @@
 url: https://klostergardentautra.no
-status: up
-code: 200
-responseTime: 3532
-lastUpdated: 2024-09-09T23:13:01.661Z
+status: down
+code: 503
+responseTime: 562
+lastUpdated: 2024-09-10T22:15:56.572Z
 startTime: 2023-11-13T12:49:39.060Z
 generator: Upptime <https://github.com/upptime/upptime>
