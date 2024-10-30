@@ -1474,7 +1474,7 @@
     "timeMonth": 0,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2024-10-30": 1098,
+      "2024-10-30": 1120,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -3613,19 +3613,19 @@
     "url": "https://djupvika.no",
     "icon": "https://icons.duckduckgo.com/ip3/djupvika.no.ico",
     "slug": "djupvika-no",
-    "status": "up",
+    "status": "down",
     "uptime": "84.00%",
-    "uptimeDay": "1.03%",
-    "uptimeWeek": "1.80%",
-    "uptimeMonth": "2.66%",
+    "uptimeDay": "2.42%",
+    "uptimeWeek": "2.00%",
+    "uptimeMonth": "2.70%",
     "uptimeYear": "84.00%",
     "time": 709,
-    "timeDay": 695,
-    "timeWeek": 638,
-    "timeMonth": 665,
+    "timeDay": 702,
+    "timeWeek": 641,
+    "timeMonth": 666,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2024-10-30": 1097,
+      "2024-10-30": 1100,
       "2024-10-29": 1427,
       "2024-10-28": 1434,
       "2024-10-27": 1404,
@@ -3701,8 +3701,7 @@
       "2024-07-09": 27,
       "2024-07-08": 19,
       "2024-07-01": 26,
-      "2024-06-29": 23,
-      "2024-06-25": 17
+      "2024-06-29": 23
     }
   },
   {
@@ -4580,7 +4579,7 @@
     "timeMonth": 0,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-10-30": 1099,
+      "2024-10-30": 1122,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
