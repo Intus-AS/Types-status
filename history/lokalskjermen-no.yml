@@ -1,7 +1,7 @@
 url: https://lokalskjermen.no
-status: up
-code: 200
-responseTime: 823
-lastUpdated: 2024-11-05T23:10:49.519Z
+status: down
+code: 503
+responseTime: 627
+lastUpdated: 2024-11-06T12:36:37.497Z
 startTime: 2023-11-13T12:22:55.376Z
 generator: Upptime <https://github.com/upptime/upptime>
