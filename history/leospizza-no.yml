@@ -1,7 +1,7 @@
 url: https://leospizza.no
-status: up
-code: 200
-responseTime: 1365
-lastUpdated: 2025-02-05T09:08:43.606Z
+status: down
+code: 429
+responseTime: 574
+lastUpdated: 2025-02-05T09:35:56.396Z
 startTime: 2023-11-13T12:16:50.292Z
 generator: Upptime <https://github.com/upptime/upptime>
