@@ -1892,7 +1892,7 @@
     "timeMonth": 0,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2025-02-22": 348,
+      "2025-02-22": 354,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -3466,7 +3466,7 @@
     "timeMonth": 0,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2025-02-22": 348,
+      "2025-02-22": 355,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -5846,19 +5846,19 @@
     "url": "https://klostergardentautra.no",
     "icon": "https://icons.duckduckgo.com/ip3/klostergardentautra.no.ico",
     "slug": "klostergardentautra-no",
-    "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "32.74%",
-    "uptimeMonth": "79.90%",
+    "status": "down",
+    "uptime": "94.82%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "32.71%",
+    "uptimeMonth": "79.89%",
     "uptimeYear": "93.37%",
-    "time": 3097,
-    "timeDay": 495,
-    "timeWeek": 881,
-    "timeMonth": 2571,
-    "timeYear": 2993,
+    "time": 3093,
+    "timeDay": 522,
+    "timeWeek": 871,
+    "timeMonth": 2547,
+    "timeYear": 2989,
     "dailyMinutesDown": {
-      "2025-02-22": 346,
+      "2025-02-22": 350,
       "2025-02-21": 1440,
       "2025-02-20": 1435,
       "2025-02-19": 1412,
@@ -5959,8 +5959,7 @@
       "2024-04-19": 564,
       "2024-04-18": 997,
       "2024-04-15": 27,
-      "2024-04-12": 19,
-      "2024-04-06": 23
+      "2024-04-12": 19
     }
   },
   {
@@ -6420,7 +6419,7 @@
     "timeMonth": 0,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-02-22": 350,
+      "2025-02-22": 357,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
