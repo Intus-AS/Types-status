@@ -1,7 +1,7 @@
 url: https://smålandbåtforening.no
-status: up
-code: 200
-responseTime: 1161
-lastUpdated: 2025-02-23T23:10:38.070Z
+status: down
+code: 500
+responseTime: 16570
+lastUpdated: 2025-02-24T14:33:01.130Z
 startTime: 2023-11-13T12:40:00.462Z
 generator: Upptime <https://github.com/upptime/upptime>
