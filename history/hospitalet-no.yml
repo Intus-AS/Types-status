@@ -1,7 +1,7 @@
 url: https://hospitalet.no
-status: up
-code: 200
-responseTime: 915
-lastUpdated: 2025-08-30T23:12:25.810Z
+status: down
+code: 503
+responseTime: 686
+lastUpdated: 2025-08-31T08:23:22.340Z
 startTime: 2023-11-13T12:56:45.555Z
 generator: Upptime <https://github.com/upptime/upptime>
