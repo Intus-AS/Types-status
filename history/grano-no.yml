@@ -1,7 +1,7 @@
 url: https://grano.no
-status: up
-code: 200
-responseTime: 2252
-lastUpdated: 2025-09-15T23:11:53.094Z
+status: down
+code: 500
+responseTime: 943
+lastUpdated: 2025-09-16T13:00:03.018Z
 startTime: 2023-11-13T12:50:06.610Z
 generator: Upptime <https://github.com/upptime/upptime>
