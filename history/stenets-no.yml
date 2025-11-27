@@ -1,7 +1,7 @@
 url: https://stenets.no
-status: up
-code: 200
-responseTime: 1948
-lastUpdated: 2025-11-26T23:13:17.518Z
+status: down
+code: 500
+responseTime: 819
+lastUpdated: 2025-11-27T11:38:53.411Z
 startTime: 2023-11-13T12:56:47.373Z
 generator: Upptime <https://github.com/upptime/upptime>
