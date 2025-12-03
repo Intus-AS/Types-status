@@ -1,7 +1,7 @@
 url: https://smakenavspania.no
-status: up
-code: 200
-responseTime: 1087
-lastUpdated: 2025-12-02T23:13:28.657Z
+status: down
+code: 503
+responseTime: 1499
+lastUpdated: 2025-12-03T22:38:46.378Z
 startTime: 2023-11-13T12:40:43.720Z
 generator: Upptime <https://github.com/upptime/upptime>
