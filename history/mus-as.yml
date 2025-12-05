@@ -1,7 +1,7 @@
 url: https://mus.as
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2025-12-04T23:13:11.269Z
+status: down
+code: 500
+responseTime: 413
+lastUpdated: 2025-12-05T08:50:37.144Z
 startTime: 2023-11-13T12:40:14.378Z
 generator: Upptime <https://github.com/upptime/upptime>
