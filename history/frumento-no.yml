@@ -1,7 +1,7 @@
 url: https://frumento.no
-status: up
-code: 200
-responseTime: 3001
-lastUpdated: 2026-01-09T19:26:28.181Z
+status: down
+code: 403
+responseTime: 803
+lastUpdated: 2026-01-09T19:45:19.242Z
 startTime: 2023-11-13T12:01:09.996Z
 generator: Upptime <https://github.com/upptime/upptime>
