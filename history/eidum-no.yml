@@ -1,7 +1,7 @@
 url: https://eidum.no
-status: up
-code: 200
-responseTime: 588
-lastUpdated: 2026-07-03T21:20:36.329Z
+status: down
+code: 429
+responseTime: 563
+lastUpdated: 2026-07-03T22:20:09.906Z
 startTime: 2023-11-13T12:49:57.528Z
 generator: Upptime <https://github.com/upptime/upptime>
